@@ -1,0 +1,21 @@
+El desarrollo de software se divide en varias etapas, a las
+cuales en conjunto llamamos ciclo de vida de software.
+
+Analisis: en esta etapa se toman todos los requerimientos
+para el software que se va a desarrollar.
+
+Diseño: se toman en cuenta todas las posibles soluciones
+para los requerimientos asi como el flujo que tendra el 
+software.
+
+Desarrollo: esta etapa se refiere a la programación misma
+de la aplicación.
+
+Pruebas: se ejecutan todos los flujos posibles de la
+aplicación en búsqueda de posibles errores.
+
+Implementación: se entrega el producto y empieza a cumplir
+su función.
+
+Mantenimiento: se evaluan posibles mejoras o nuevas funciones
+y se le agrega. 

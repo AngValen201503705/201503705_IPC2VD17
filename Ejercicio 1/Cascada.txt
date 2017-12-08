@@ -1,0 +1,10 @@
+La metodología en cascada, es un modelo propuesto que se 
+fundamenta en un proceso ordenado y secuencial.
+En este modelo se atraviesan distintas etapas antes de
+la entrega del nuevo software, cabe recalcar que es necesario
+terminar una etapa para pasar a la siguiente.
+
+Es un modelo rígido, el cúal no acepta cambios y solo se
+detectan errores en la etapa de pruebas. Es recomendado
+cuando el desarrollo cuenta con una entrega a largo plazo
+o el software es un producto grande o extenso.

@@ -1,0 +1,11 @@
+El modelo incremental, utiliza secuencias lineales repetitivas,
+donde cada ciclo de dicha secuencia agrega una funcionalidad
+nueva al software.
+
+En la planeación en dicho modelo se evaluan las funciones 
+conforme a la prioridad, agregando conforme a dicha prioridad
+dictada por el cliente.
+
+En cada incremento el cliente evalua el software, en dicha 
+evaluación el cliente origina el plan para el siguiente 
+incremento.
