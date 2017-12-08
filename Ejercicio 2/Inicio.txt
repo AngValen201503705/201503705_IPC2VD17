@@ -1,28 +1,28 @@
-La cuarta edición de Cálculo: trascendentes tempranas 
-constituye una revisión sustancial de la última edición. 
-Aunque en esta edición hay mucho material nuevo, he intentado
- preservar intacto mi objetivo original de compilar un texto
- de cálculo que no sea sólo una colección de definiciones y
- teoremas, habilidades y fórmulas para memorizar, así como 
-problemas para resolver, sino un libro que se comunique con
- sus lectores más importantes: los estudiantes. Deseo que 
-estos cambios hagan más relevante e interesante el texto 
-tanto para el estudiante como para el profesor.
+L crt dcn d Clcl: trscndnts tmprns 
+cnstty n rvsn sstncl d l ltm dcn. 
+nq n st dcn hy mch mtrl nv, h ntntd
+ prsrvr ntct m bjtv orgnl d cmplr n txt
+ d clcl q n s sl n clccn d dfncns y
+ trms, hbldds y frmls pr mmrzr, s cm 
+prblms pr rslvr, sn n lbr q s cmnq cn
+ ss lctrs ms mprtnts: ls stdnts. Ds q 
+sts cmbs hgn ms rlvnt  ntrsnt l txt 
+tnt pr l stdnt cm pr l prfsr.
 
 
-Secciones y ejercicios La mayor parte del material se ha 
-actualizado y, en algunos casos, reorganizado. Muchas 
-secciones y conjuntos de ejercicios se han reescrito por 
-completo; asimismo, se les han agregado muchos problemas 
-nuevos, en especial aplicaciones, problemas que requieren 
-el uso de calculadora y computadora, problemas conceptuales y
- problemas de proyectos. En su mayoría, las aplicaciones 
-agregadas pertenecen al ámbito de la “vida real” en el 
-sentido de que se han investigado exhaustivamente usando 
-fuentes originales. También se han agregado problemas 
-relacionados con la interpretación de gráficas. Además,
- se ha hecho énfasis en las funciones trigonométricas tanto 
-en los ejemplos como en los conjuntos de ejercicios a lo
- largo del texto. En esta edición hay más de 7 300 problemas.
+Sccns y jrccs L myr prt dl mtrl s h 
+ctlzd y, n lgns css, rrgnzd. Mchs 
+sccns y cnjnts d jrccs s hn rscrt pr 
+cmplt; smsm, s ls hn grgd mchs prblms 
+nvs, n spcl aplccns, prblms q rqurn 
+l us d clcldr y cmptdr, prblms cncptls y
+ prblms d prycts. n s myor, ls plccns 
+grgds prtncn l mbt d l “vd rl” n l 
+sntd d q s hn nvstgd xhstvmnt snd 
+fnts orgnls. Tmbn s hn grgd prblms 
+rlcnds cn l ntrprtcón d gráfcs. dmás,
+ s h hch énfss n ls fncns trgnmétrcs tnt 
+n ls jmpls cm n ls cnjnts d jrccs  l
+ lrg dl txt. n st dcón hy más d 7 300 prblms.
 
-Pagina #6
+Pgn #6
